@@ -5,7 +5,7 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
-import netlify from "@astrojs/netlify/edge-functions";
+import netlify from "@astrojs/netlify/functions";
 
 // https://astro.build/config
 export default defineConfig({
