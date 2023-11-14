@@ -3,12 +3,14 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+<p>
+  We believe marketing is engineering, not art. We believe marketers should be engineers (at least at-heart), and marketing problems should be <b>solved like engineering problems</b>. When a developer runs into a problem, their first instinct is to time-box it and use a broad-swath of open-source tools and communities to creatively solve it as efficiently and frugally as possible. Marketing teams too often reach for expensive tools and out-of-date playbooks to work-around solvable problems. 
+</p>
+<p>
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+DevMarketing was started by <b>engineer-turned-marketer Jarod Reyes</b> who built high-performing developer marketing teams at <b>Twilio, Auth0 and PlanetScale</b> before venturing out to help early-stage startups nail some of the early scaffolding necessary to achieve rapid and consistent growth. Book time today to solve some marketing problems.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+</p>
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">

@@ -13,8 +13,10 @@ export interface Props {
 
 const { post } = Astro.props;
 
-const { title, author, description, ogImage, canonicalURL, pubDatetime, tags } =
+const { title, postSlug, author, description, ogImage, canonicalURL, pubDatetime, tags } =
   post.data;
+
+const docs = postSlug == 'the-marketing-api-for-technical-founders';
 
 const { Content } = await post.render();
 
@@ -32,7 +34,13 @@ const ogUrl = new URL(
   ogImage={ogUrl}
   canonicalURL={canonicalURL}
 >
-  <Header />
+  {
+    docs ? (
+      <Header activeNav="docs" />
+    ) : (
+      <Header />
+    )
+  }
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
     <button
       class="focus-outline mb-2 mt-8 flex hover:opacity-75"
