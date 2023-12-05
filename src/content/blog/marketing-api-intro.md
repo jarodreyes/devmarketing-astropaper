@@ -3,7 +3,7 @@ author: Jarod Reyes
 pubDatetime: 2023-12-03T21:22:00Z
 title: "The Marketing API: Engineering a New Marketing Playbook for Technical Founders"
 postSlug: the-marketing-api-intro
-featured: FALSE
+featured: true
 draft: false
 tags:
   - developers
@@ -16,15 +16,17 @@ description: "The Marketing API: Engineering a New Marketing Playbook for Techni
 
 🚀 Hello. My name is Jarod and this is the The Marketing API, a blog where I will explain marketing concepts and playbooks through the eyes of an engineer. I have spent 12 years as a software engineer and a marketer and I have found that marketing is still a mystery to many engineering orgs and technical founders.
 
-I want this to become a place where anyone, technical or not, can learn some of the most basic, commonplace and misunderstood concepts of marketing. It has been one of my core responsibilities as I have navigated from team to team to help teams (even marketing teams) understand the core value of marketing. One way I have explained marketing in the past that seemed to resonate was as an API. Marketing should be seen as another core function of the technical product. It is essentially another endpoint in the product, but one that is able to quickly help the product grow exponentially.
+I want this to become a place where anyone, technical or not, can learn some of the most basic, commonplace and misunderstood concepts of marketing. One of my core responsibilities throughout my years as a marketing leader has been to help technical audiences understand the core value of marketing.
 
-In this blog, 'The Marketing API,' we’ll explore how to apply engineering methodologies to marketing. We’ll dissect case studies, break down successful strategies, and reconstruct them, much like debugging a stubborn piece of software. Together, we’ll learn how to build marketing frameworks that resonate with a developer audience – not through lavish spending, but through intelligent, data-driven strategies that speak their language.
+One way I have explained marketing in the past that really seemed to stick, was as an API. It made sense that there was a complex interlocking network inside of the marketing org. Marketing should be seen as another core function of the technical product. It is essentially another endpoint in the product, but one that is able to quickly help the product grow exponentially.
 
-So, whether you're a technical founder at the helm of a startup or a marketer navigating the developer landscape, this space is for you. Let's dismantle the old playbook and rewrite the rules of marketing, one logical, data-driven strategy at a time.
+✍️ In this blog, 'The Marketing API,' we’ll explore how to apply engineering methodologies to marketing. We’ll dissect case studies, break down successful strategies, and reconstruct them, much like debugging a stubborn piece of software. Together, we’ll learn how to build marketing frameworks that resonate with a developer audience – not through lavish spending, but through intelligent, data-driven strategies that speak their language.
+
+So, whether you're a technical founder at the helm of a startup or a marketer navigating the developer landscape, this space is for you. Let's dismantle the old playbooks and rewrite the rules of marketing, one logical, strategy at a time.
 
 ## The Engineering Approach to Marketing
 
-- **Technical Rigor:** For a technical product, especially one where the audience is engineers, it is critical that the marketing team get training and experience as an engineer. I don't mean a simple 1-hour lesson, I mean constant reinforcement of product specifics, detailed demos from engineers and even coding lessons. In many cases I have hired people for key roles with CS(Computer Science) backgrounds.
+- **Technical Rigor:** For a technical product, especially one where the audience is engineers, it is critical that the marketing team get training and experience as an engineer. I don't mean a simple 1-hour lesson, I mean constant reinforcement of product specs, detailed demos from engineers and even coding lessons. In many cases I have hired people for key roles with CS(Computer Science) backgrounds.
 
 - **Problem-Solving Mindset:** Just like debugging a complex software issue, I approach marketing challenges methodically. I break them down into smaller, manageable parts, analyze each component, and look for the most efficient solution. It's not about quick fixes; it's about sustainable solutions.
 
