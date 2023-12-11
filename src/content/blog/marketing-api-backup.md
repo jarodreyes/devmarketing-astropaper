@@ -22,6 +22,8 @@ The Marketing API provides a frame of referenced meant to help leaders optimize 
 
 _Note: This is a living document. I will update the publish time as I add details and functions to the API. Todo: add key elements like benchmarks, budget and roles._
 
+`Book time with DevMarketing to discuss these.`
+
 ## Table of Contents
 
 ## Endpoints
@@ -97,8 +99,9 @@ _Note: This is a living document. I will update the publish time as I add detail
 - **Endpoint:** `/product/market`
 - **Methods:**
   - `launchProduct()`: Coordinates product launches with marketing campaigns.
-  - `promoteFeatures()`: Highlights key product features through targeted marketing efforts.
+  - `promoteFeatures()`: Highlights key product features through targeted marketing efforts. Focus on the features that will deliver the largest business value.
   - `manageLifecycle()`: Manages marketing strategies throughout the product lifecycle.
+  - `defineDefensibleNeed()`: Collate customer experience and value props to define a need that the customer was not aware they had and competitors can't meet. This creates a defensible moat.
 
 ### 10. Product-Led Growth
 
@@ -107,6 +110,15 @@ _Note: This is a living document. I will update the publish time as I add detail
   - `optimizeUserExperience()`: Enhances the product experience to drive user acquisition and retention.
   - `driveAdoption()`: Uses product features and benefits to drive market adoption.
   - `measureGrowthImpact()`: Evaluates the effectiveness of product-led initiatives on overall growth.
+
+### 10. Product-Led Sales
+
+- **Endpoint:** `/sales/product-led`
+- **Methods:**
+  - `createAha()`: Create an aha moment for a technical influencer or decision maker.
+  - `enableInfluencer()`: Create an experience, or deliver content that allows the influencer to explain the value to their team and larger organization.
+  - `connectSales()`: Automate a connection to the Sales team and be prepared to technically onboard the decision maker.
+  - `connectABM()`: Use learnings to enable ABM team about what messages and features are working for Ideal Customers.
 
 ## Integration and Usage
 
