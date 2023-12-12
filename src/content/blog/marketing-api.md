@@ -1,6 +1,6 @@
 ---
 author: Jarod Reyes
-pubDatetime: 2023-12-12T16:28:00Z
+pubDatetime: 2023-12-12T08:28:00Z
 title: "The Marketing API: Reference Documentation"
 postSlug: the-marketing-api-for-technical-founders
 featured: true
