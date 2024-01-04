@@ -1,6 +1,6 @@
 ---
 author: Jarod Reyes
-pubDatetime: 2024-01-04T17:42:00Z
+pubDatetime: 2024-01-04T09:59:00Z
 title: "How we got 100,000 developers to care about a database feature launch."
 postSlug: plg-playbook-narrative
 featured: true
