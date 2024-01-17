@@ -1,0 +1,40 @@
+<div id="buttons-container" class='reload-buttons'>
+  <h2> Which do you prefer?</h2>
+  <button 
+    type="button"
+    id="button1"
+    className="button"
+    value="buffy"
+  >Buffy</button>
+  <button 
+    type="button"
+    id="button2"
+    className="button"
+    value="spongebob"
+  >Spongebob</button>
+  <button 
+    type="button"
+    id="button3"
+    className="button"
+    value="fry"
+  >Fry</button>
+</div>
+
+<script type="module">
+  const buttonsContainer = document.getElementById('buttons-container');
+  const buttonClicked = sessionStorage.getItem('buttonClicked');
+
+  if (buttonClicked) {
+    buttonsContainer.style.display = 'none';
+  }
+  // This script runs in the browser
+  const handleClick = (e) => {
+    console.log(e.currentTarget.value);
+    sessionStorage.setItem('buttonClicked', 'true');
+    window.location.reload();
+  };
+
+  document.getElementById('button1').addEventListener('click', handleClick);
+  document.getElementById('button2').addEventListener('click', handleClick);
+  document.getElementById('button3').addEventListener('click', handleClick);
+</script>

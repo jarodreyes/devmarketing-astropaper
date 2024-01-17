@@ -1,0 +1,76 @@
+---
+import { SITE } from "@config";
+import Layout from "@layouts/Layout.astro";
+import Main from "@layouts/Main.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import ContactForm from "@components/ContactForm.astro";
+
+---
+
+<Layout title={`Contact Us | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="The DevOps Alchemy Tour" pageDesc="A technical roadshow, combined ">
+    <!-- Header -->
+    <div class="bg-gray-100 text-center p-5">
+      <span>The</span>
+      <h1 class="text-xl font-bold">DevOps</h1>
+      <h2 class="text-l font-bold">Alchemy tour</h2>
+    </div>
+
+    <!-- Introduction Section -->
+    <div class="my-5 px-6">
+      <h2 class="text-lg font-semibold mb-2">Introduction</h2>
+      <p>A concise introduction to the Roadshow, emphasizing the collaboration between leading tech companies and targeting key technical leaders, developers, and decision-makers in the tech sector.</p>
+    </div>
+
+    <!-- Problem Statement Section -->
+    <div class="my-5 px-6">
+      <h2 class="text-lg font-semibold mb-2">Problem Statement: The Challenges of Solo Roadshows and Interoperability</h2>
+      <p>Highlight the costs and logistical challenges of organizing solo roadshows. Discuss the interoperability issues and how the Roadshow addresses this by showcasing integrated solutions.</p>
+    </div>
+
+    <!-- Participation Benefits Section -->
+    <div class="my-5 px-6">
+      <h2 class="text-lg font-semibold mb-2">Participation Benefits</h2>
+      <ul class="list-none p-0">
+        <li class="mb-2">Broader Reach and Impact: Shared platforms for a wider audience.</li>
+        <li class="mb-2">Cost Efficiency: Reduced expenses through shared hosting and marketing.</li>
+        <li class="mb-2">Expanded Networking: Opportunities for new industry partnerships.</li>
+        <li class="mb-2">Enhanced Brand Image: Association with top tech companies.</li>
+      </ul>
+    </div>
+
+    <!-- Pricing Structure Section -->
+    <div class="my-5 px-6">
+      <h2 class="text-lg font-semibold mb-2">Pricing Structure</h2>
+      <table class="w-full border-collapse border border-gray-200">
+        <tr class="border-b">
+          <th class="text-left p-2 border-r">Tier</th>
+          <th class="text-left p-2 border-r">Price</th>
+          <th class="text-left p-2">Benefits</th>
+        </tr>
+        <tr class="border-b">
+          <td class="p-2 border-r">Basic</td>
+          <td class="p-2 border-r">$X,XXX</td>
+          <td class="p-2">Listing, Access, etc.</td>
+        </tr>
+        <!-- Add more rows as needed -->
+      </table>
+    </div>
+
+    <!-- Closing Remarks Section -->
+    <div class="my-5 px-6">
+      <h2 class="text-lg font-semibold mb-2">Closing Remarks</h2>
+      <p>A persuasive recap emphasizing the collaborative opportunity and strategic benefits of participation.</p>
+    </div>
+
+    <!-- Footer -->
+    <div class="bg-gray-100 text-center p-5 text-sm">
+      <p>Join us on this exciting journey. [QR Code/Contact Info]</p>
+    </div>
+
+  </main>
+
+  <Footer />
+</Layout>
