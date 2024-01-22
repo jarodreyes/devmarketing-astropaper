@@ -1,6 +1,6 @@
 ---
 author: Jarod Reyes
-pubDatetime: 2024-01-17T10:29:00Z
+pubDatetime: 2024-01-22T11:39:00Z
 title: "AI is replacing your creativity, so exercise it!"
 postSlug: ai-and-creativity
 featured: false
