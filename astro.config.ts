@@ -12,7 +12,7 @@ export default defineConfig({
   site: SITE.website,
   integrations: [
     tailwind({
-      applyBaseStyles: false,
+      applyBaseStyles: true,
     }),
     react(),
     sitemap(),

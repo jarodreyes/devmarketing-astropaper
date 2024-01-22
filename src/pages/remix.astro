@@ -1,0 +1,21 @@
+---
+import { SITE } from "@config";
+import Layout from "@layouts/Layout.astro";
+import Main from "@layouts/Main.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import React from 'react';
+import GameBoard from '@components/GameBoard';
+import PromptCards from '@components/PromptCards';
+import Card from '@components/GameCard';
+---
+<Layout title={`Remix: Marketing creativity card game | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Remix Marketing Game" >
+    <div className="App">
+      <GameBoard client:load/>
+      <PromptCards client:load/> <!-- Add this line -->
+    </div>
+  </Main>
+  <Footer />
+</Layout>

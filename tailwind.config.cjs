@@ -20,7 +20,7 @@ module.exports = {
     // Uncomment the following extend
     // if existing Tailwind color palette will be used
 
-    // extend: {
+    extend: {
     textColor: {
       skin: {
         base: withOpacity("--color-text-base"),
@@ -61,7 +61,7 @@ module.exports = {
       sans: ["Lato",'ui-sans-serif', 'system-ui'],
       action: ["Francois One", 'ui-sans-serif'],
     },
-    // },
+    },
   },
   plugins: [
     require("@tailwindcss/typography"),
