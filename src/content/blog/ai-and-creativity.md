@@ -13,6 +13,8 @@ tags:
 description: "AI is to your brain what Google Maps was to your brain... it's replacing an entire function. I love google maps, I also love AI, but to prepare for the future you need to exercise the part of your brain that AI would love to easily supplant..."
 ---
 
+![AI generated art](/creativity.png "AI-generated art of van and flowers")
+
 # AI is to your brain what Google Maps was to your brain. A replacement.
 
 AI is to your brain what Google Maps was to your brain... it's replacing an entire function. I love google maps, I also love AI, but to prepare for the future you need to exercise the part of your brain that AI would love to easily supplant. Creativity.
