@@ -1,0 +1,18 @@
+---
+import { SITE } from "@config";
+import Layout from "@layouts/Layout.astro";
+import Main from "@layouts/Main.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import React from 'react';
+import Calculator from '@components/MagicCalculator';
+---
+<Layout title={`Magic Number Calculator | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Magic Number Calculator" >
+    <div className="App">
+      <Calculator client:load/>
+    </div>
+  </Main>
+  <Footer />
+</Layout>

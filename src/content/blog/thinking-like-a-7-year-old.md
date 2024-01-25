@@ -41,4 +41,4 @@ After our team offsite I remember how impactful the session was for me personall
 
 But of course there is another point to this exercise and it is of the metaphysical kind. Especially right now, with the market flooded with devtools and infra plays….if you can’t simplify your story, and have it make sense to a 7-year old. **You might be building the wrong thing.**
 
-Please feel free to grab time with me if you want to talk marketing for dev tools. I am winding down one project and excited to find the next one.
+Please feel free to [book some time with me](https://calendly.com/jarod-reyes/devmarketing) if you want to talk marketing for dev tools. I am winding down one project and excited to find the next one.
