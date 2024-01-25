@@ -29,15 +29,15 @@ It just so happened that what we were doing in those early days at Twilio was in
 
 The irony of marketing to developers is that the best strategy often involves not 'marketing' at all. Developers are a unique audience; they tend to be skeptical of traditional marketing tactics and can easily detect and dismiss anything that feels too salesy.
 
-🚀 **Whatever they need: **Focus on Technical Accuracy and Value\*\*
+🚀 **Whatever they need:** Focus on Technical Accuracy and Value
 
 The key is to provide technically accurate content and resources that genuinely help developers improve at their jobs. It's about creating a bond through knowledge sharing and problem-solving rather than pushing a product.
 
-🔧 **Show Up: **Being a Resource, Not a Sales Pitch\*\*
+🔧 **Show Up:** Being a Resource, Not a Sales Pitch
 
 At Twilio, we found success by being a resource first. Our presence at hackathons wasn't about selling Twilio; it was about supporting and empowering developers. This approach not only built trust but also subtly showcased the capabilities of our product.
 
-💡 **Help Developers: **Marketing Through Empathy and Assistance\*\*
+💡 **Help Developers:** Marketing Through Empathy and Assistance
 
 Ultimately, marketing to developers is about understanding their needs and challenges. It's about empathy, assistance, and creating content that's genuinely useful. When you focus on being helpful, marketing becomes a natural byproduct of your efforts.
 
