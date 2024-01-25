@@ -17,9 +17,9 @@ description: "At Twilio, we found success by being a resource first. Our presenc
 
 While I was at Twilio, there was a mantra on the developer marketing team:
 
-###
+### **Show up** and **help developers** with **whatever they need**.
 
-    **Show up** and **help developers** with **whatever they need**.
+---
 
 If we were at an event and a developer couldn't get their localhost running, we'd sit down and debug it with them. We really lived this value, staying up all night at hackathons while every other sponsor was sleeping soundly in their hotels. There were even times when a Twilio Developer Evangelist would laugh about helping a developer build a POC with a competitor’s product! After all, our team was there helping developers, and theirs wasn't.
 
