@@ -15,7 +15,7 @@ description: "Just as architecture didn't stop evolving after the White City, th
 
 # What is your next big leap for developers?
 
-In 1893, the White City at the Chicago World's Fair didn't just capture imaginations; it revolutionized global architecture, setting a new benchmark in design excellence and leaving a lasting influence that extended far beyond its temporary existence. Among those it inspired was none other than Walt Disney, whose dreams of magical kingdoms found a spark in the White City's grandeur.
+In 1893, the White City at the Chicago World's Fair didn't just capture imaginations; it revolutionized american architecture, setting a new benchmark in design excellence and leaving a lasting influence that extended far beyond its temporary existence. Among those it inspired was none other than Walt Disney, whose dreams of magical kingdoms found a spark in the White City's grandeur.
 
 This transformative impact reminds me of the seismic shift in developer tools between 2010-2018. Brands like GitHub, Twilio, MongoDB, HashiCorp, and Stripe didn't just create tools; they redefined the developer experience, integrating seamless marketing, top-notch product design, and exemplary documentation into the very fabric of their offerings.
 
