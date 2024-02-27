@@ -61,6 +61,15 @@ const socialImageURL = new URL(
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Francois+One&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F893EXE7GS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F893EXE7GS');
+    </script>
 
     <meta name="theme-color" content="" />
 
@@ -80,6 +89,7 @@ const socialImageURL = new URL(
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>
+
   <body>
     <slot />
     <!-- <div class="chatWidget"><ChatWidget client:only="react"/></div> -->

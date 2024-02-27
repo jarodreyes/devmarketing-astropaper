@@ -3,7 +3,7 @@ author: Jarod Reyes
 pubDatetime: 2024-01-17T10:29:00Z
 title: "At Auth0 we pitched ideas to my 7-year old. You should too."
 postSlug: thinking-like-a-7-year-old
-featured: true
+featured: false
 draft: false
 tags:
   - developers
