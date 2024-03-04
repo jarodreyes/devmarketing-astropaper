@@ -15,7 +15,7 @@ description: "Some tunes to code to this month. 3 Different producers, 3 differe
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Z5GI4gZw8HpLNPA5R0aSx?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <br/>
 
-# I made a mixtape for you all
+# DevMarketing Mixtape[0]: Three Producers
 
 I wanted to share some tunes with you all that I have been digging lately. Specifically there are three producers that I have been studying and getting to know. I love these producers because, though they are each hit makers, they use completely different techniques and styles to achieve a hit. Each of these producers tends to stay in the background while they let other performers and bands shine.
 
