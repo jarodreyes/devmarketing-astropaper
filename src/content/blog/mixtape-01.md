@@ -23,6 +23,10 @@ I wanted to share some tunes with you all that I have been digging lately. Speci
 
 First up, we've got Nigel Godrich, often hailed as the "sixth member" of Radiohead. I think of Nigel as a Gandalf of the studio, conjuring up soundscapes that are as emotionally complex as they are technically sophisticated. Godrich is known for staying up all night playing with a combo of filters, pedals and synths to achieve a unique instrument of his own making; it's about sculpting songs into immersive experiences. His approach is a masterclass in balance, blending organic instrumentation with electronic elements in a way that feels both groundbreaking and timeless. Notice specifically how he never just "adds drums" but uses percussion in interesting ways. Lastly notice how he uses instrumentation sparingly, compared to Nile Rodgers who fills every moment to create a groove, Nigel instead lets space and evolution create movement.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=t8HMZzCm4aKEMIiC&amp;list=PLCOyD9mKt2EzILmkWaaqWbhrbF5yze2ri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Playlist on Youtube](https://youtube.com/playlist?list=PLCOyD9mKt2EzILmkWaaqWbhrbF5yze2ri&si=LpY-4vLK0AoPdaQQ)
+
 ## TOKiMONSTA
 
 Then, we pivot to the beat mastery of TOKiMONSTA. Born and bred in the LA beat scene, she's the hacker in the group, bending genres and breaking rules to craft tracks that are utterly unique. Her style is a kaleidoscope of influences, from hip-hop to electronica to R&B, all mixed with a hefty dose of innovation. TOKiMONSTA elevates other musicians when she produces or remixes their tunes. Notice her unqique use of loops and vocal effects to create instrumentation outside of a traditional band.
