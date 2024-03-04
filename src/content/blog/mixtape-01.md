@@ -12,7 +12,8 @@ tags:
 description: "Some tunes to code to this month. 3 Different producers, 3 different styles."
 ---
 
-![Mixtape Cover](/mixtape-01-sm.png "Mixtape cover: Three Producers")
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Z5GI4gZw8HpLNPA5R0aSx?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br/>
 
 # I made a mixtape for you all
 
