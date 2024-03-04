@@ -12,6 +12,8 @@ tags:
 description: "Some tunes to code to this month. 3 Different producers, 3 different styles."
 ---
 
+![Mixtape Cover](/mixtape-01-sm.png "Mixtape cover: Three Producers")
+
 # I made a mixtape for you all
 
 I wanted to share some tunes with you all that I have been digging lately. Specifically there are three producers that I have been studying and getting to know. I love these producers because they each fit together while being from different generations and using completely different techniques to create hits. Each of these producers tends to stay in the background while they let other performers and bands shine.
