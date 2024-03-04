@@ -16,11 +16,11 @@ description: "Some tunes to code to this month. 3 Different producers, 3 differe
 
 # I made a mixtape for you all
 
-I wanted to share some tunes with you all that I have been digging lately. Specifically there are three producers that I have been studying and getting to know. I love these producers because they each fit together while being from different generations and using completely different techniques to create hits. Each of these producers tends to stay in the background while they let other performers and bands shine.
+I wanted to share some tunes with you all that I have been digging lately. Specifically there are three producers that I have been studying and getting to know. I love these producers because, though they are each hit makers, they use completely different techniques and styles to achieve a hit. Each of these producers tends to stay in the background while they let other performers and bands shine.
 
 ## Nigel Godrich
 
-First up, we've got Nigel Godrich, often hailed as the "sixth member" of Radiohead. This dude is like the Gandalf of the studio, conjuring up soundscapes that are as emotionally complex as they are technically sophisticated. With Godrich, it's not just about twisting knobs and pushing buttons; it's about sculpting songs into immersive experiences. His approach is a masterclass in balance, blending organic instrumentation with electronic elements in a way that feels both groundbreaking and timeless. Notice specifically how he never just "adds drums" but uses percussion in interesting ways. Lastly notice how he uses instrumentation sparingly, compared to Nile Rodgers who fills every moment to create a groove, Nigel instead lets space and evolution create movement.
+First up, we've got Nigel Godrich, often hailed as the "sixth member" of Radiohead. I think of Nigel as a Gandalf of the studio, conjuring up soundscapes that are as emotionally complex as they are technically sophisticated. Godrich is known for staying up all night playing with a combo of filters, pedals and synths to achieve a unique instrument of his own making; it's about sculpting songs into immersive experiences. His approach is a masterclass in balance, blending organic instrumentation with electronic elements in a way that feels both groundbreaking and timeless. Notice specifically how he never just "adds drums" but uses percussion in interesting ways. Lastly notice how he uses instrumentation sparingly, compared to Nile Rodgers who fills every moment to create a groove, Nigel instead lets space and evolution create movement.
 
 ## TOKiMONSTA
 
