@@ -2,9 +2,9 @@
 author: Jarod Reyes
 pubDatetime: 2024-04-16T08:30:00Z
 title: "Demystifying Product-Led Sales: The Holy Grail for B2D"
-postSlug: the-marketing-api-for-technical-founders
+postSlug: holy-grail-pls-b2d
 featured: true
-draft: true
+draft: false
 tags:
   - developers
   - sales
@@ -17,13 +17,13 @@ description: "Demystifying Product-Led Sales: The Holy Grail for B2D Companies"
 
 ## Demystifying Product-Led Sales: The Holy Grail for B2D Companies
 
+![The Holy Grail of Product-led Sales](/holy-grail-dev-marketing.png "Ingographic explaining product-led-sales for B2D companies")
+
 In my interactions with technical founders, the concept of Product-Led Sales (PLS) often sparks curiosity and requires clarification. It's a relatively new term, sometimes misinterpreted, that blends elements of product-led growth with a unique sales dynamic.
 
 Think of PLS as a two-pronged approach: bottom-up adoption by individual developers coupled with a top-down sales strategy targeting the organization. The product itself serves as the initial touchpoint, captivating developers and showcasing its value. However, the ultimate goal is to secure a company-wide agreement, not just individual subscriptions.
 
-To illustrate this effectively, I created the visual aid below:
-
-![The Holy Grail of Product-led Sales](/holy-grail-dev-marketing.png "Ingographic explaining product-led-sales for B2D companies")
+To illustrate this effectively, I created the visual aid above.
 
 Let's break down the core components:
 
